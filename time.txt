@@ -61,3 +61,6 @@
 #xsh;ttyp*;root;!WdMo0000-2400
 
 #
+# End of example file.
+#
+login ; * ; !dion ; MoTuWeThFr0900-1700
